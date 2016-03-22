@@ -1,2 +1,6 @@
 This is the first text in the file.
+<<<<<<< HEAD
 the second change for merge
+=======
+maked changes
+>>>>>>> refs/remotes/origin/master
